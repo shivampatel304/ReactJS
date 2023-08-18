@@ -1,0 +1,30 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "this is react js content",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivampatel304/ReactJS.git"
+  },
+  "keywords": [],
+  "author": "shivam patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivampatel304/ReactJS/issues"
+  },
+  "homepage": "https://github.com/shivampatel304/ReactJS#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  },
+  "browserslist":[
+    "last 2 version"
+  ]
+}
